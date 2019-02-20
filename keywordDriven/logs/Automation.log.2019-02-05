@@ -1,0 +1,164 @@
+ INFO 2019-02-05 11:12:24,318 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 11:12:32,004 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 11:12:32,367 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 11:12:38,552 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 11:13:02,846 [basePackage.BrowserManager] [main] [ActionsKeyword.java:46] - Leave Request Successfully Submitted
+ INFO 2019-02-05 11:13:04,123 [basePackage.BrowserManager] [main] [ActionsKeyword.java:53] - User logged out from Appn
+ INFO 2019-02-05 11:22:53,438 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 11:23:00,675 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 11:23:00,995 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 11:23:06,700 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 11:24:28,892 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 11:24:36,561 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 11:24:36,823 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 11:24:49,699 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 12:39:05,275 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 12:39:13,823 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 12:39:14,335 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 12:39:22,714 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 12:43:11,437 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 12:43:18,350 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 12:43:18,631 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 12:43:25,678 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 12:58:44,987 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 12:58:54,415 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 12:58:54,702 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 12:59:01,902 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 13:04:01,106 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 13:04:08,939 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 13:04:09,195 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 13:04:14,933 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 13:24:07,868 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 13:24:16,692 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 13:24:16,998 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 13:24:26,038 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 13:31:32,699 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 13:31:40,204 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 13:31:40,482 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 13:31:46,589 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 16:59:49,685 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 16:59:56,492 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 16:59:56,815 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:00:02,466 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:19:35,463 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:19:43,706 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:19:43,987 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:19:49,571 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:20:40,733 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:20:49,157 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:20:49,400 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:20:55,728 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:23:58,331 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:24:04,822 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:24:05,073 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:24:10,457 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:25:24,365 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:25:30,577 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:25:30,830 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:25:40,313 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:27:06,944 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:27:13,318 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:27:13,555 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:27:19,091 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:29:54,446 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:30:00,729 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:30:00,990 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:30:07,046 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:31:30,306 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:31:36,091 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:31:36,347 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:31:43,816 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:32:56,803 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:33:03,067 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:33:03,379 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:33:08,594 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:37:30,662 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:37:37,049 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:37:37,313 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:37:42,872 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:40:35,523 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:40:41,939 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:40:42,189 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:40:47,706 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:41:24,903 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:41:30,784 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:41:31,144 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:41:36,288 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:44:01,741 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:44:08,546 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:44:08,780 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:44:14,494 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:44:55,987 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:45:01,713 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:45:02,022 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:45:07,223 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:47:28,358 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:47:34,740 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:47:35,087 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:47:50,567 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:47:56,419 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:47:56,715 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:48:01,838 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:49:45,536 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:49:51,208 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:49:51,466 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:49:56,735 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 17:50:23,128 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 17:50:28,790 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 17:50:29,078 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 17:50:34,770 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:14:17,087 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:14:27,434 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:14:27,693 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:14:37,470 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:16:49,579 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:16:55,725 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:16:55,977 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:17:01,332 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:18:03,161 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:18:09,230 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:18:09,471 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:18:14,822 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:19:21,619 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:19:28,276 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:19:28,580 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:19:33,998 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:19:50,163 [basePackage.BrowserManager] [main] [MyRequestsPage.java:120] - selected date
+ INFO 2019-02-05 18:21:52,705 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:21:58,854 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:21:59,127 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:22:10,744 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:22:16,900 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:22:17,146 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:22:22,475 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:22:39,253 [basePackage.BrowserManager] [main] [MyRequestsPage.java:120] - selected date
+ INFO 2019-02-05 18:22:49,572 [basePackage.BrowserManager] [main] [ActionsKeyword.java:46] - Leave Request Successfully Submitted
+ INFO 2019-02-05 18:22:50,849 [basePackage.BrowserManager] [main] [ActionsKeyword.java:53] - User logged out from Appn
+ INFO 2019-02-05 18:25:04,400 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:25:11,523 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:25:11,771 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:25:17,219 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:25:33,211 [basePackage.BrowserManager] [main] [MyRequestsPage.java:121] - selected date
+ INFO 2019-02-05 18:25:36,111 [basePackage.BrowserManager] [main] [MyRequestsPage.java:121] - selected date
+ INFO 2019-02-05 18:25:44,482 [basePackage.BrowserManager] [main] [ActionsKeyword.java:46] - Leave Request Successfully Submitted
+ INFO 2019-02-05 18:25:45,835 [basePackage.BrowserManager] [main] [ActionsKeyword.java:53] - User logged out from Appn
+ INFO 2019-02-05 18:28:54,331 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:29:00,282 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:29:00,534 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:29:05,639 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:29:21,579 [basePackage.BrowserManager] [main] [MyRequestsPage.java:122] - selected date
+ INFO 2019-02-05 18:29:24,548 [basePackage.BrowserManager] [main] [MyRequestsPage.java:122] - selected date
+ INFO 2019-02-05 18:29:31,988 [basePackage.BrowserManager] [main] [ActionsKeyword.java:46] - Leave Request Successfully Submitted
+ INFO 2019-02-05 18:29:33,282 [basePackage.BrowserManager] [main] [ActionsKeyword.java:53] - User logged out from Appn
+ INFO 2019-02-05 18:29:42,593 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:29:48,328 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:29:48,702 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:29:53,837 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:35:47,201 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:35:53,397 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:35:53,636 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:35:59,576 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
+ INFO 2019-02-05 18:37:47,904 [basePackage.BrowserManager] [main] [BrowserManager.java:51] - Chrome Browser Started
+ INFO 2019-02-05 18:37:54,351 [basePackage.BrowserManager] [main] [BrowserManager.java:43] - Browser Url: http://192.168.204.23/user/login
+ INFO 2019-02-05 18:37:54,629 [basePackage.BrowserManager] [main] [ActionsKeyword.java:56] - Invalid details
+ INFO 2019-02-05 18:37:59,887 [basePackage.BrowserManager] [main] [ActionsKeyword.java:30] - User Successfully logged into application
